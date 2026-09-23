@@ -1,36 +1,131 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ege
-===========================================================================================================================
+<div align="center">
 
-Software Developer
-------------------
+# Hi, I'm Ege 👋
 
-I am currently a 3rd-year student in the IT department at Eastern Mediterranean University. In addition to my studies, I am uploading the projects I have worked on to improve myself here.
+### .NET Backend Developer
 
-* 🌍  I'm based in KKTC - Gazimağusa / İzmir - Urla
-* 🖥️  See my portfolio at [my site](http://egeasp.net)
-* ✉️  You can contact me at [egenull0@gmail.com](mailto:egenull0@gmail.com)
+I build backend-focused applications with **C# and ASP.NET Core**, with a particular interest in software architecture, distributed systems and maintainable application design.
 
-<a href="https://www.github.com/nullablege" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nullablege?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+Currently pursuing a **Master's Degree in Software Engineering** while continuing to improve my skills through hands-on projects.
 
-### Skills
+[![Portfolio](https://img.shields.io/badge/Portfolio-egeasp.net-0A66C2?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://egeasp.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ege%20Aytaç-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/egeaytac)
+[![Email](https://img.shields.io/badge/Email-ege%40egeasp.net-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ege@egeasp.net)
 
+</div>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+---
 
+## 👨‍💻 About Me
 
-### Socials
+* 🎯 Focused on **.NET Backend Development**
+* 🧱 Interested in **Microservices, Onion Architecture and N-Layer Architecture**
+* ⚙️ Building applications with **ASP.NET Core, Entity Framework Core and REST APIs**
+* 🗄️ Working with **SQL Server, PostgreSQL and MongoDB**
+* 🎓 Graduate of **Eastern Mediterranean University — Information Technology**
+* 📚 Currently pursuing a **Non-Thesis Master's Degree in Software Engineering at Ahmet Yesevi University**
+* 📍 Based in **İzmir, Türkiye**
 
-<p align="left"> <a href="https://www.github.com/nullablege" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## 🛠️ Tech Stack
 
-<b>My GitHub Stats</b>
+### Backend & Architecture
 
-<a href="http://www.github.com/nullablege"><img src="https://github-readme-stats.vercel.app/api?username=nullablege&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nullablege's GitHub stats" /></a>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 
-<a href="http://www.github.com/nullablege"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nullablege&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+`Microservices` · `Onion Architecture` · `N-Layer Architecture` · `REST APIs`
 
-<a href="https://github.com/nullablege" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullablege&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 [MultiShop](https://github.com/nullablege/MultiShop)
+
+A **.NET 8 microservices-based e-commerce application** where different business domains are separated into independent services.
+
+**Highlights**
+
+* Microservice architecture
+* ASP.NET Core Web API & MVC
+* OpenIddict / OAuth 2.0 / OpenID Connect
+* Ocelot API Gateway
+* MongoDB, Redis, SQL Server & PostgreSQL
+* RabbitMQ & SignalR
+* Docker & Docker Compose
+
+---
+
+### 🎫 [Ticketora](https://github.com/nullablege/Ticketora-Project-12)
+
+An **event ticketing and reservation platform** built with a strong focus on clean separation of responsibilities using Onion Architecture.
+
+**Highlights**
+
+* Onion Architecture
+* ASP.NET Core MVC
+* Entity Framework Core
+* SQL Server
+* ASP.NET Core Identity
+* Repository & Service patterns
+* Dependency Injection
+* Docker support
+
+🌐 **Live:** [ticketora.egeasp.net](https://ticketora.egeasp.net)
+
+---
+
+### 💳 Qart
+
+One of my recent backend-focused projects and part of my ongoing work with modern .NET application development.
+
+More information about the project can be found on my **[portfolio](https://egeasp.net)**.
+
+---
+
+## 🎓 Education
+
+**Ahmet Yesevi University**
+Master's Degree in **Software Engineering — Non-Thesis**
+`2026 — Present`
+
+**Eastern Mediterranean University**
+**Information Technology**
+`2022 — 2026`
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nullablege&show_icons=true&hide_border=true&theme=github_dark" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullablege&layout=compact&hide_border=true&theme=github_dark" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect
+
+**[egeasp.net](https://egeasp.net)** · **[LinkedIn](https://linkedin.com/in/egeaytac)** · **[ege@egeasp.net](mailto:ege@egeasp.net)**
+
+</div>
