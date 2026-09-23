@@ -110,13 +110,17 @@ Master's Degree in **Software Engineering — Non-Thesis**
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nullablege&show_icons=true&hide_border=true&theme=github_dark" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nullablege&theme=github_dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullablege&layout=compact&hide_border=true&theme=github_dark" height="165" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nullablege&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nullablege&theme=github_dark" />
 
 </div>
 
