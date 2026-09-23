@@ -7,7 +7,7 @@ Software Developer
 I am currently a 3rd-year student in the IT department at Eastern Mediterranean University. In addition to my studies, I am uploading the projects I have worked on to improve myself here.
 
 * 🌍  I'm based in KKTC - Gazimağusa / İzmir - Urla
-* 🖥️  See my portfolio at [my site](http://ege.com)
+* 🖥️  See my portfolio at [my site](http://egeasp.net)
 * ✉️  You can contact me at [egenull0@gmail.com](mailto:egenull0@gmail.com)
 
 <a href="https://www.github.com/nullablege" target="_blank" rel="noreferrer"><img
